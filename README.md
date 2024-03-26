@@ -5,4 +5,4 @@ survive hordes of aliens on Mars. Hordes of aliens attack the player in
 different waves while the player tries to survive, collecting health 
 pickups scattered around the map if needed. 
 
-Made with Unreal Engine.
+Made with Unreal Engine 4.26.
