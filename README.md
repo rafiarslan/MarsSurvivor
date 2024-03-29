@@ -9,9 +9,9 @@ Made with Unreal Engine 4.26.
 
 # Controls and Mechanics
 
--W, A, S, D keys to move around
+-W, A, S, D keys to move around.
 
--Left Mouse Button to shoot
+-Left Mouse Button to shoot.
 
 -There are a couple of health items scattered around the map for players to heal.
 
